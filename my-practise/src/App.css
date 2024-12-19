@@ -1,0 +1,15 @@
+.small-container{
+    border: 2px solid black;
+    display: flex;
+    text-wrap: wrap;
+    justify-content: center;
+    
+
+}
+.card{
+    width: 20rem;
+    border: 1px solid black;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
